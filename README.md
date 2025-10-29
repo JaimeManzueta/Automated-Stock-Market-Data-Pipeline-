@@ -112,6 +112,3 @@ Common developer tasks include environment setup, formatting and linting, unit t
 
 ---
 
-## License
-
-MIT (see the license file in the repository).
