@@ -9,6 +9,8 @@ def main():
 
     print("hows it going \n")
 
+    print("hello")
+
 
 
     
